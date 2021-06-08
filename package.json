@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://git@github.com/flav28/flav-gif-frames.git"
+    "url": "https://github.com/flav28/flav-gif-frames"
   },
   "keywords": [
     "gif",
@@ -33,7 +33,7 @@
   "dependencies": {
     "get-pixels-frame-info-update": "^3.3.2",
     "multi-integer-range": "^3.0.0",
-    "flav-save-pixels": "github:flav28/flav-save-pixels"
+    "flav-save-pixels": "https://github.com/flav28/flav-save-pixels"
   },
   "devDependencies": {
     "browserify": "^16.2.3",
