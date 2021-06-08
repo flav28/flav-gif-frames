@@ -1,5 +1,5 @@
 {
-  "name": "gif-frames",
+  "name": "flav-gif-frames",
   "version": "1.0.1",
   "description": "Pure JavaScript tool for extracting GIF frames and saving to file",
   "main": "gif-frames.js",
