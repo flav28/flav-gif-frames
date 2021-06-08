@@ -37,7 +37,7 @@
   "dependencies": {
     "get-pixels-frame-info-update": "^3.3.2",
     "multi-integer-range": "^3.0.0",
-    "save-pixels-jpeg-js-upgrade": "github:flav28/gif-frames"
+    "save-pixels-jpeg-js-upgrade": "github:flav28/save-pixels"
   },
   "devDependencies": {
     "browserify": "^16.2.3",
