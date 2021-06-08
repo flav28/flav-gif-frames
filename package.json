@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/flav28/flav-gif-frames.git"
+    "url": "git://git@github.com/flav28/flav-gif-frames.git"
   },
   "keywords": [
     "gif",
@@ -30,10 +30,6 @@
   ],
   "author": "Ben Wiley",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/benwiley4000/gif-frames/issues"
-  },
-  "homepage": "https://github.com/benwiley4000/gif-frames#readme",
   "dependencies": {
     "get-pixels-frame-info-update": "^3.3.2",
     "multi-integer-range": "^3.0.0",
