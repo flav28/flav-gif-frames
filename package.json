@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/benwiley4000/gif-frames.git"
+    "url": "git+ssh://git@github.com/flav28/gif-frames.git"
   },
   "keywords": [
     "gif",
